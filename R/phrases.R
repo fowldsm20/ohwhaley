@@ -1,7 +1,7 @@
 #' Whale pun phrases used in say()
 #' @keywords internal
 phrases <-  c(
-  "You're whale-come!",
+  "I am. A whale",
   "How are you? I'm whaley good!",
   "I'm having a whale of a time!",
   "Whale, whale, whale...look who's here!",
